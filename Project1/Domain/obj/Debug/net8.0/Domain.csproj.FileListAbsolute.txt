@@ -1,0 +1,11 @@
+D:\работы VS\Безумный Лари\Project1\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\работы VS\Безумный Лари\Project1\Domain\bin\Debug\net8.0\Domain.dll
+D:\работы VS\Безумный Лари\Project1\Domain\bin\Debug\net8.0\Domain.pdb
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\Domain.dll
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\Domain.pdb
+D:\работы VS\Безумный Лари\Project1\Domain\obj\Debug\net8.0\ref\Domain.dll
