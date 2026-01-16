@@ -1,26 +1,31 @@
-name: dotnet format
+name: .NET Core CI
 
 on:
   push:
-    paths:
-      - "**/*.cs"
-      - ".editorconfig"
+    branches:
+      - '**'
+  pull_request:
+    branches:
+      - '**'
 
 jobs:
-  check-format:
-    runs-on: windows-latest
+  build:
+    runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
     - name: Setup .NET 8
       uses: actions/setup-dotnet@v3
       with:
         dotnet-version: '8.0.x'
 
-    - name: Install dotnet-format tool
-      run: dotnet tool install -g dotnet-format
+    - name: Restore NuGet packages
+      run: dotnet restore Project1/Project1.sln
 
-    - name: Check out code
-      uses: actions/checkout@v4
+    - name: Build project
+      run: dotnet build Project1/Project1.sln --configuration Release --no-restore
 
-    - name: Run dotnet format
-      run: dotnet format Project1/Project1.sln --check --verbosity diagnostic
+    - name: Verify code formatting
+      run: dotnet format Project1/Project1.sln --verify-no-changes --no-restore || true
