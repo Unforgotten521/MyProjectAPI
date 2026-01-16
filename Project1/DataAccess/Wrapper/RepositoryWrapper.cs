@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DataAccess.Interfaces;
-using DataAccess.Models;
+﻿using Domain.Models;
 using DataAccess.Repositories;
+using Domain.Interfaces;
 
 namespace DataAccess.Wrapper
 {
     public class RepositoryWrapper : IRepositoryWrapper
     {
         private AutoCheckWorkContext _repoContext;
+
         private IUserRepository _user;
 
         public IUserRepository User
@@ -25,14 +21,15 @@ namespace DataAccess.Wrapper
                 return _user;
             }
         }
+
         public RepositoryWrapper(AutoCheckWorkContext repositoryContext)
         {
             _repoContext = repositoryContext;
         }
 
-        public void Save()
+        public async Task Save()
         {
-            _repoContext.SaveChanges();
+            await _repoContext.SaveChangesAsync();
         }
     }
 }

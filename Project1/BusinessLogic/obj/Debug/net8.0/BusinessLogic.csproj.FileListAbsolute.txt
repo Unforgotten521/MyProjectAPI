@@ -9,7 +9,7 @@ D:\работы VS\Безумный Лари\Project1\BusinessLogic\obj\Debug\ne
 D:\работы VS\Безумный Лари\Project1\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
 D:\работы VS\Безумный Лари\Project1\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
 D:\работы VS\Безумный Лари\Project1\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
-D:\работы VS\Безумный Лари\Project1\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
-D:\работы VS\Безумный Лари\Project1\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
 D:\работы VS\Безумный Лари\Project1\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
 D:\работы VS\Безумный Лари\Project1\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+D:\работы VS\Безумный Лари\Project1\BusinessLogic\bin\Debug\net8.0\Domain.dll
+D:\работы VS\Безумный Лари\Project1\BusinessLogic\bin\Debug\net8.0\Domain.pdb

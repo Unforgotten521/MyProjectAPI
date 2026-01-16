@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
-        "Type": "DataAccess.Models.User",
+        "Name": "request",
+        "Type": "BackendApi.Contracts.User.CreateUserRequest",
         "IsRequired": true
       }
     ],
@@ -35,7 +35,7 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "DataAccess.Models.User",
+        "Type": "Domain.Models.User",
         "IsRequired": true
       }
     ],
