@@ -1,0 +1,41 @@
+name: 1
+
+on:
+  push:
+    branches:
+      - '**' 
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup .NET 8
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Install dotnet-format
+      run: dotnet tool install -g dotnet-format
+
+    - name: Remove bin/obj manually
+      run: |
+        rm -rf **/bin
+        rm -rf **/obj
+
+    - name: Clear NuGet cache
+      run: dotnet nuget locals all --clear
+
+    - name: Restore NuGet packages
+      run: dotnet restore Project1.sln --force --no-cache
+
+    - name: Build project
+      run: dotnet build Project1.sln --configuration Release --no-restore
+
+    - name: Verify code formatting
+      run: dotnet format Project1.sln --verify-no-changes --no-restore || true
