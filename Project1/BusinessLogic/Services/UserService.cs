@@ -26,14 +26,23 @@ namespace BusinessLogic.Services
 
         public async Task Create(User model)
         {
+            if (model == null) 
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+
+            if (string.IsNullOrEmpty(model.FirstName))
+            {
+                throw new ArgumentException(nameof(model.FirstName));
+            }
             await _repositoryWrapper.User.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(User model)
         {
-            _repositoryWrapper.User.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.User.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -41,8 +50,18 @@ namespace BusinessLogic.Services
             var user = await _repositoryWrapper.User
                 .FindByCondition(x => x.UserId == id);
 
-            _repositoryWrapper.User.Delete(user.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.User.Delete(user.First());
+            await _repositoryWrapper.Save();
+        }
+
+        public static IEnumerable<object[]> GetIncorrectUsers()
+        {
+            return new List<object[]>
+            {
+                new object[] { new User() { FirstName = "", LastName = "", Email = "" } },
+                new object[] { new User() { FirstName = "Иван", LastName = "", Email = "ivan.sergeev@edu.ru" } },
+                new object[] { new User() { FirstName = "Иван", LastName = "Сергеев", Email = "" } }
+            };
         }
     }
 }

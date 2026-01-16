@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA2E03C9-DC0F-495F-8A78-AA93A70347FD}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2E03C9-DC0F-495F-8A78-AA93A70347FD}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E569E8A-4D14-41B0-8BAF-F1A2136C5377}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E569E8A-4D14-41B0-8BAF-F1A2136C5377}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E569E8A-4D14-41B0-8BAF-F1A2136C5377}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7E569E8A-4D14-41B0-8BAF-F1A2136C5377}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C42CCED6-ADAE-46CF-B670-A0BFEDF9E3E1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{C42CCED6-ADAE-46CF-B670-A0BFEDF9E3E1}|D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
-      "RelativeMoniker": "D:0:0:{C42CCED6-ADAE-46CF-B670-A0BFEDF9E3E1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{C42CCED6-ADAE-46CF-B670-A0BFEDF9E3E1}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+      "AbsoluteMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AA2E03C9-DC0F-495F-8A78-AA93A70347FD}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\businesslogic.tests\\businesslogic.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA2E03C9-DC0F-495F-8A78-AA93A70347FD}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\businesslogic.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2E03C9-DC0F-495F-8A78-AA93A70347FD}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2E03C9-DC0F-495F-8A78-AA93A70347FD}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|solutionrelative:project1\\project1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|solutionrelative:project1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\project1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|solutionrelative:project1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\project1\\contracts\\responseapi\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|solutionrelative:project1\\contracts\\responseapi\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C2B59F2-3190-4E1C-9B5F-5C2453E1D6F8}|Project1\\Project1.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\project1\\contracts\\requestapi\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,24 +63,8 @@
       "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{361C7B0D-4076-4B4F-9EA5-61D91C4A08A9}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\models\\assignmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\assignmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A012BAA6-99CC-4A90-8D95-5A2048E7D7D0}|Domain\\Domain.csproj|d:\\\u0440\u0430\u0431\u043E\u0442\u044B vs\\\u0431\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u043B\u0430\u0440\u0438\\project1\\domain\\models\\testcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,106 +98,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BusinessLogic",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T18:01:01.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\.editorconfig",
-              "RelativeDocumentMoniker": ".editorconfig",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\.editorconfig",
-              "RelativeToolTip": ".editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-16T13:17:35.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetUserResponse.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\Contracts\\ResponseAPI\\GetUserResponse.cs",
-              "RelativeDocumentMoniker": "Project1\\Contracts\\ResponseAPI\\GetUserResponse.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\Contracts\\ResponseAPI\\GetUserResponse.cs",
-              "RelativeToolTip": "Project1\\Contracts\\ResponseAPI\\GetUserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\UserServiceTest.cs",
+              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\UserServiceTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:09:23.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Project1\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Project1\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowC8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T13:05:10.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:35:05.55Z",
+              "WhenOpened": "2026-01-16T19:32:02.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:35:15.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
               "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic\\Services\\UserService.cs",
               "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T13:39:34.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\appsettings.json",
-              "RelativeDocumentMoniker": "Project1\\appsettings.json",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\appsettings.json",
-              "RelativeToolTip": "Project1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-16T13:16:21.193Z"
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:37:23.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:36:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:35:01.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -229,11 +175,38 @@
               "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAswBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:37:33.229Z"
+              "WhenOpened": "2026-01-12T13:37:33.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "BusinessLogic.Tests",
+              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "RelativeToolTip": "BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T19:41:00.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\BusinessLogic.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:40:09.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Project1.csproj",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\Project1.csproj",
               "RelativeDocumentMoniker": "Project1\\Project1.csproj",
@@ -246,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CreateUserRequest.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Project1\\Contracts\\RequestAPI\\CreateUserRequest.cs",
               "RelativeDocumentMoniker": "Project1\\Contracts\\RequestAPI\\CreateUserRequest.cs",
@@ -254,11 +227,12 @@
               "RelativeToolTip": "Project1\\Contracts\\RequestAPI\\CreateUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-16T12:08:20.942Z"
+              "WhenOpened": "2026-01-16T12:08:20.942Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "AutoCheckWorkContext.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\AutoCheckWorkContext.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\AutoCheckWorkContext.cs",
@@ -266,11 +240,12 @@
               "RelativeToolTip": "Domain\\Models\\AutoCheckWorkContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:33:59.894Z"
+              "WhenOpened": "2026-01-12T13:33:59.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "20260115140958_MigratonName.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Migrations\\20260115140958_MigratonName.cs",
               "RelativeDocumentMoniker": "Domain\\Migrations\\20260115140958_MigratonName.cs",
@@ -278,11 +253,12 @@
               "RelativeToolTip": "Domain\\Migrations\\20260115140958_MigratonName.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T14:09:58.549Z"
+              "WhenOpened": "2026-01-15T14:09:58.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Course.cs",
@@ -290,11 +266,12 @@
               "RelativeToolTip": "Domain\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:17.709Z"
+              "WhenOpened": "2026-01-12T13:34:17.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Group.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\Group.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Group.cs",
@@ -302,11 +279,12 @@
               "RelativeToolTip": "Domain\\Models\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:23.319Z"
+              "WhenOpened": "2026-01-12T13:34:23.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "20260115140958_MigratonName.Designer.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Migrations\\20260115140958_MigratonName.Designer.cs",
               "RelativeDocumentMoniker": "Domain\\Migrations\\20260115140958_MigratonName.Designer.cs",
@@ -314,47 +292,12 @@
               "RelativeToolTip": "Domain\\Migrations\\20260115140958_MigratonName.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:34:14.011Z"
+              "WhenOpened": "2026-01-15T20:34:14.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:36:41.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:35:01.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:37:23.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 15,
               "Title": "AssignmentType.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\AssignmentType.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\AssignmentType.cs",
@@ -362,23 +305,12 @@
               "RelativeToolTip": "Domain\\Models\\AssignmentType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:33:51.021Z"
+              "WhenOpened": "2026-01-12T13:33:51.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:35:09.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 16,
               "Title": "TestCase.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\TestCase.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\TestCase.cs",
@@ -386,11 +318,12 @@
               "RelativeToolTip": "Domain\\Models\\TestCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:51.303Z"
+              "WhenOpened": "2026-01-12T13:34:51.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 17,
               "Title": "SubmissionResult.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\SubmissionResult.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\SubmissionResult.cs",
@@ -398,11 +331,12 @@
               "RelativeToolTip": "Domain\\Models\\SubmissionResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:46.32Z"
+              "WhenOpened": "2026-01-12T13:34:46.32Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 18,
               "Title": "Submission.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\Submission.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Submission.cs",
@@ -410,11 +344,12 @@
               "RelativeToolTip": "Domain\\Models\\Submission.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:41.325Z"
+              "WhenOpened": "2026-01-12T13:34:41.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 19,
               "Title": "Role.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Role.cs",
@@ -422,11 +357,12 @@
               "RelativeToolTip": "Domain\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:32.093Z"
+              "WhenOpened": "2026-01-12T13:34:32.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 20,
               "Title": "ProgrammingLanguage.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\ProgrammingLanguage.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\ProgrammingLanguage.cs",
@@ -434,11 +370,12 @@
               "RelativeToolTip": "Domain\\Models\\ProgrammingLanguage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:34:28.196Z"
+              "WhenOpened": "2026-01-12T13:34:28.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 21,
               "Title": "Assignment.cs",
               "DocumentMoniker": "D:\\\u0440\u0430\u0431\u043E\u0442\u044B VS\\\u0411\u0435\u0437\u0443\u043C\u043D\u044B\u0439 \u041B\u0430\u0440\u0438\\Project1\\Domain\\Models\\Assignment.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Assignment.cs",
@@ -446,7 +383,8 @@
               "RelativeToolTip": "Domain\\Models\\Assignment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:33:03.065Z"
+              "WhenOpened": "2026-01-12T13:33:03.065Z",
+              "EditorCaption": ""
             }
           ]
         }
